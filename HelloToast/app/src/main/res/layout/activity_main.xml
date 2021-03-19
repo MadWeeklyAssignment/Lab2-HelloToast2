@@ -22,18 +22,17 @@
         android:id="@+id/show_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center_vertical"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="#FFFF00"
+        android:gravity="center_vertical"
         android:text="@string/count_initial_value"
         android:textAlignment="center"
         android:textColor="@color/colorPrimary"
         android:textSize="160sp"
-        android:textStyle="bold"
-        android:layout_weight="1"/>
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/button_count"
