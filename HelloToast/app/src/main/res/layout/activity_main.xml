@@ -38,10 +38,11 @@
         android:id="@+id/button_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         android:background="@color/colorPrimary"
+        android:gravity="center_vertical"
         android:onClick="countUp"
         android:text="@string/button_label_count"
         android:textColor="@android:color/white" />
