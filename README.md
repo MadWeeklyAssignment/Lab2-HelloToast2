@@ -34,58 +34,48 @@
 ### Hello ToastChallenge 2 Application Overview
 
 - Application Index (Linear Layout)
-<img src="Screenshots/Coding Challenge/LinearLayout.png" width=300/>
+<img src="Screenshots/lab2challenge2linearindex.png" width=300/>
 
 - Application Index (Relative Layout)
-<img src="Screenshots/Coding Challenge/Relative Layout.png" width=300/>
+<img src="Screenshots/lab2challenge2relativeindex.png" width=300/>
 
 ### Hello Toast Challenge2 Application Workings
 
-- Count Button (Linear Layout)
-<img src="Screenshots/Coding Challenge/LinearLayout-CountButton.gif" width=300/>
+- Count Button for Linear Layout
+<img src="Screenshots/lab2challengelinearcount.gif" width=300/>
 
-- Count Button (Relative Layout)
-<img src="Screenshots/Coding Challenge/RelativeLayout-CountButton.gif"/>
+- Count Button for Relative Layout
+<img src="Screenshots/lab2challengerelativecount.gif"/>
 
-- Toast Button (Linear Layout)
-<img src="Screenshots/Coding Challenge/LinearLayout-ToastButton.gif" width=300/>
+- Toast Button for Linear Layout
+<img src="Screenshots/lab2challengelineartoast.gif" width=300/>
 
-- Toast Button (Relative Layout)
-<img src="Screenshots/Coding Challenge/RelativeLayout-ToastButton.gif"/>
+- Toast Button for Relative Layout
+<img src="Screenshots/lab2challengerelativetoast.gif"/>
 
 # Lab-2-HelloConstraint
 
-### HelloConstraint Application Overview
+## HelloConstraint Application 
 
 - Application Index Portrait
-<img src="Screenshots/Homework/HelloConstraint-Index.png" width=300/>
+<img src="Screenshots/lab2constraintindexpotrait.png" width=300/>
 
 - Application Index Landscape
-<img src="Screenshots/Homework/HelloConstraint-Landscape.png"/>
+<img src="Screenshots/lab2constraintindexlandscape.png"/>
 
 ### HelloConstraint Application Workings
 
-- Count Button Portrait
-<img src="Screenshots/Homework/ConstraintCountClicked.gif" width=300/>
+- Count Button working in  Portrait
+<img src="Screenshots/lab2constraintindexlandscape.gif" width=300/>
 
-- Count Button Landscape
+- Count Button working in Landscape
 <img src="Screenshots/Homework/Constraint-Land-count.gif"/>
 
-- Zero Button Portrait
-<img src="Screenshots/Homework/ConstraintZero.gif" width=300>
+- Zero Button when Portrait
+<img src="Screenshots/lab2constraintindexlandscape.gif" width=300>
 
-- Zero Button Landscape
-<img src="Screenshots/Homework/Constraint-Land-ZeroPressed.gif"/>
+- Zero Button when Landscape
+<img src="Screenshots/lab2constraintindexlandscape.gif"/>
 
-- When Number Is Even Portrait
-<img src="Screenshots/Homework/ConstraintEven.gif" width=300/>
 
-- When Number Is Even Landscape
-<img src="Screenshots/Homework/Constraint-Land-Even.gif"/>
-
-- When Number Is Odd Portrait
-<img src="Screenshots/Homework/ConstraintOdd.gif" width=300>
-
-- When Number Is Odd Landscape
-<img src="Screenshots/Homework/Constraint-Land-Odd.gif"/>
 
