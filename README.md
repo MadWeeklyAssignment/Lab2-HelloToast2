@@ -66,16 +66,16 @@
 ### HelloConstraint Application Workings
 
 - Count Button working in  Portrait
-<img src="Screenshots/lab2constraintindexlandscape.gif" width=300/>
+<img src="Screenshots/lab2constraintcountpotrait.gif" width=300/>
 
 - Count Button working in Landscape
 <img src="Screenshots/Homework/Constraint-Land-count.gif"/>
 
 - Zero Button when Portrait
-<img src="Screenshots/lab2constraintindexlandscape.gif" width=300>
+<img src="Screenshots/lab2constraintpotraitzero" width=300>
 
 - Zero Button when Landscape
-<img src="Screenshots/lab2constraintindexlandscape.gif"/>
+<img src="Screenshots/lab2constraintlandscapezero.gif"/>
 
 
 
